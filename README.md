@@ -5,15 +5,15 @@
 # Hi there 👋, I'm nown!
 
 
-Welcome to my GitHub profile! I'm a passionate developer, always eager to learn new things and work on exciting projects. 
+Selamat datang di profil GitHub saya! Saya adalah seorang mengangguran profesional yang tidak ingin bekerja.
 
 ---
 
 ### 💼 About Me 
 
-- 💻 I love working on **Open Source Projects**
-- 🌱 Currently learning 
-- 📫 How to reach me: [![Telegram](https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram&logoColor=white)]([https://t.me/yourtelegramusername](https://t.me/xnownn)) | [![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter&logoColor=white)]([https://twitter.com/yourtwitter](https://x.com/Gnawn_))
+- 💻 Tidak ada Kerjaan selain begadang
+- 🌱 sedang mempelajari tidur sambil nongkrong
+- 📫 Hubungi saya jika ingin maki-maki: [![Telegram](https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram&logoColor=white)]([https://t.me/yourtelegramusername](https://t.me/xnownn)) | [![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter&logoColor=white)]([https://twitter.com/yourtwitter](https://x.com/Gnawn_))
 
 
 
