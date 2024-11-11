@@ -1,6 +1,3 @@
-[![image](https://github.com/user-attachments/assets/cc5686d6-ab1b-45f2-8dc4-9a99589fb841)](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
-
-
 # Hi there 👋, I'm nown!
 
 
