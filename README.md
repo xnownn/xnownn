@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="MasterHead GIF" width="11000"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" alt="MasterHead GIF" width="11000"/>
 </p>
 
 # Hi there 👋, I'm nown!
@@ -40,5 +40,4 @@ Here are some of the technologies I frequently use:
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]([https://twitter.com/yourhandle](https://x.com/Gnawn_))
 
 ---
-
 Thank you for visiting my profile! 😊
